@@ -1,2 +1,2 @@
 # Graduation-project---DEPI-
-Pharmaceutical Sales analysis 
+Pharmaceutical products Sales analysis 
